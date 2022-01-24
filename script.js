@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animationPhyton
     var typed = new Typed(".typing", {
-        strings: ["graphics designer", "developer",  "web Designer", "progrommer"],
+        strings: ["graphics designer", "developer",  "web designer", "progrommer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
